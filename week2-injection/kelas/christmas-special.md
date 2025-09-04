@@ -60,6 +60,25 @@ Tantangan ini mengharuskan kita untuk menemukan produk yang tidak tersedia (tela
 
 #### Bukti Screenshot
 
+<img width="1894" height="1060" alt="Screenshot 2025-09-04 172709" src="https://github.com/user-attachments/assets/07b9aec0-4695-4faf-aa38-e8a53a190baa" />
+
+
+<img width="1889" height="1064" alt="Screenshot 2025-09-04 174145" src="https://github.com/user-attachments/assets/c4a5c707-03c3-4738-b702-b34f6eaf3a33" />
+
+
+<img width="1919" height="1068" alt="Screenshot 2025-09-04 174005" src="https://github.com/user-attachments/assets/0a2af2dc-1920-4d99-807f-5560f869b260" />
+
+
+<img width="1904" height="1039" alt="Screenshot 2025-09-04 173936" src="https://github.com/user-attachments/assets/16546949-a1c3-41a6-9caf-eb55d897a906" />
+
+
+<img width="1903" height="1058" alt="Screenshot 2025-09-04 173557" src="https://github.com/user-attachments/assets/5185cac0-703e-4d8e-b1cb-c776a91ea493" />
+
+
+<img width="560" height="221" alt="Screenshot 2025-09-04 173201" src="https://github.com/user-attachments/assets/acd5d7db-8f54-4bed-be44-de262887526c" />
+
+
+<img width="1915" height="1052" alt="Screenshot 2025-09-04 172926" src="https://github.com/user-attachments/assets/8c21a783-110a-4446-88d7-a3426cfba8f3" />
 
 #### Catatan hasil percobaan
 
