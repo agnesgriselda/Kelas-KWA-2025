@@ -36,6 +36,14 @@
 
 #### Bukti Screenshot
 
+<img width="1919" height="1072" alt="Screenshot 2025-09-04 202233" src="https://github.com/user-attachments/assets/209ab38c-e29a-4bbe-9096-0fe73d4cc282" />
+
+
+<img width="1893" height="1060" alt="Screenshot 2025-09-04 202326" src="https://github.com/user-attachments/assets/94e44a26-de29-485c-8bf2-d158ce95621e" />
+
+
+<img width="1907" height="1065" alt="Screenshot 2025-09-04 202245" src="https://github.com/user-attachments/assets/9a18155b-eba8-496c-9498-21a0a88c0c3f" />
+
 
 #### Catatan hasil percobaan
 
