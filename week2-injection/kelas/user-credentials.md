@@ -40,6 +40,12 @@
 
 #### Bukti Screenshot
 
+<img width="1896" height="1074" alt="Screenshot 2025-09-04 205457" src="https://github.com/user-attachments/assets/234ffd68-9ef8-4508-91b4-40687d94c64b" />
+
+
+<img width="1891" height="1068" alt="Screenshot 2025-09-04 205411" src="https://github.com/user-attachments/assets/bb7272f4-f5ae-425b-a54f-318f46f3b120" />
+
+
 #### Catatan hasil percobaan
 
 -   **Hasil:** Berhasil.
