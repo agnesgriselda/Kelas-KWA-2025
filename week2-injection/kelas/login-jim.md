@@ -33,6 +33,12 @@
 
 #### Bukti Screenshot
 
+<img width="720" height="643" alt="Screenshot 2025-09-04 164213" src="https://github.com/user-attachments/assets/76488213-b95b-4b30-9045-2c429877db41" />
+
+<img width="1899" height="1057" alt="Screenshot 2025-09-04 163412" src="https://github.com/user-attachments/assets/a7834015-2be7-4073-a74b-0954d95e924b" />
+
+<img width="331" height="310" alt="Screenshot 2025-09-04 163428" src="https://github.com/user-attachments/assets/d682d24e-6cf1-43f7-8433-ad403a20ae33" />
+
 
 #### Catatan Hasil Percobaan
 
