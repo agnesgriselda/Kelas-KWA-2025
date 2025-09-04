@@ -11,7 +11,7 @@
 -   **Endpoint Rentan:** Halaman Login
 -   **URL:** `http://127.0.0.1:3000/#/login`
 
-### 3.3. Jawaban Mahasiswa + Bukti
+### 3.3. Jawaban + Bukti
 
 #### Step-by-step yang sudah dicoba
 
