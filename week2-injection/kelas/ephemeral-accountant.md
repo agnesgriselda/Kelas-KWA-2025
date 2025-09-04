@@ -45,6 +45,13 @@ Tantangan ini menuntut kita untuk login sebagai pengguna yang tidak ada (`acc0un
 
 #### Bukti Screenshot
 
+<img width="1917" height="1074" alt="Screenshot 2025-09-04 190912" src="https://github.com/user-attachments/assets/c97baa75-0ef9-4991-beda-b154834bc129" />
+
+
+<img width="1896" height="1065" alt="Screenshot 2025-09-04 190949" src="https://github.com/user-attachments/assets/9bd3d201-4b9f-4a59-916f-728f72304a7f" />
+
+
+
 #### Catatan hasil percobaan
 
 -   **Berhasil/Gagal:** Gagal total saat menggunakan `curl` di cmd.exe dan PowerShell. Berhasil dengan mudah menggunakan `fetch` di browser console.
