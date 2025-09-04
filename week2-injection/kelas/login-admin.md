@@ -32,6 +32,12 @@
 
 #### Bukti Screenshot
 
+<img width="718" height="649" alt="Screenshot 2025-09-04 164132" src="https://github.com/user-attachments/assets/e223de2c-5ae9-41ae-87e6-033c747e980c" />
+
+<img width="1919" height="1064" alt="Screenshot 2025-09-04 163240" src="https://github.com/user-attachments/assets/af445cc9-538b-4d10-9d13-b2c06fc4cb1c" />
+
+<img width="341" height="299" alt="Screenshot 2025-09-04 163458" src="https://github.com/user-attachments/assets/db4de295-e65d-409f-9697-ce1d25b927e4" />
+
 #### Catatan Hasil Percobaan
 
 -   **Hasil:** Berhasil.
