@@ -34,6 +34,10 @@
 
 #### Bukti Screenshot
 
+<img width="1897" height="1058" alt="Screenshot 2025-09-07 220634" src="https://github.com/user-attachments/assets/f260a679-85a1-4d5a-9b8c-2a3be3f350d8" />
+
+<img width="1893" height="1057" alt="Screenshot 2025-09-07 220652" src="https://github.com/user-attachments/assets/f5b4a065-9b7b-4f19-8790-fb3852b68924" />
+
 
 #### Catatan hasil percobaan
 
