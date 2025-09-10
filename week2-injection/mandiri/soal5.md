@@ -36,6 +36,16 @@
 
 #### Bukti Screenshot
 
+<img width="1890" height="1071" alt="Screenshot 2025-09-10 235106" src="https://github.com/user-attachments/assets/f13d84cf-91d7-4d3e-95f0-5aabf2df4b7f" />
+
+<img width="1890" height="1063" alt="Screenshot 2025-09-10 235157" src="https://github.com/user-attachments/assets/523eedf6-0d3c-4a6d-a627-b475ddd47203" />
+
+
+<img width="1897" height="1065" alt="Screenshot 2025-09-10 235239" src="https://github.com/user-attachments/assets/746a55c6-88e3-4ed0-857c-adebaa599641" />
+
+
+<img width="1899" height="1061" alt="Screenshot 2025-09-10 235514" src="https://github.com/user-attachments/assets/117b515f-938c-4cff-9f2f-75070c606f2d" />
+
 
 #### Catatan hasil percobaan
 
