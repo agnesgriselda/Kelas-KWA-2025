@@ -59,6 +59,15 @@
 
 #### Bukti Screenshot
 
+<img width="1919" height="1064" alt="Screenshot 2025-09-10 170937" src="https://github.com/user-attachments/assets/cc130b79-5d70-4ee8-acf7-313e86f50bef" />
+
+<img width="1919" height="1067" alt="Screenshot 2025-09-10 172026" src="https://github.com/user-attachments/assets/f4890c24-c608-4370-be81-a0ec837e03fe" />
+
+<img width="1908" height="1049" alt="Screenshot 2025-09-10 172040" src="https://github.com/user-attachments/assets/81d20e5e-abe3-4232-802a-f106d6efc786" />
+
+<img width="1903" height="1074" alt="Screenshot 2025-09-10 172056" src="https://github.com/user-attachments/assets/2366d887-e1d6-49a2-9b3d-43140e2e2da1" />
+
+
 #### Catatan hasil percobaan
 
 -   **Status:** Berhasil.
